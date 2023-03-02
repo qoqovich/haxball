@@ -10079,7 +10079,7 @@
     oc = Boolean,
     tc = {},
     uc = {};
-  p.Ia = new p(0, 16777215, 0, -1, "Spectators", "t-spec", 0, 0);
+  p.Ia = new p(0, 16777215, 0, -1, "Faggots", "t-spec", 0, 0);
   p.fa = new p(1, 15035990, -1, 8, "Red", "t-red", 0, 2);
   p.xa = new p(2, 5671397, 1, 16, "Blue", "t-blue", 0, 4);
   p.Ia.pg = p.Ia;
