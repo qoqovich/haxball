@@ -10079,7 +10079,7 @@
     oc = Boolean,
     tc = {},
     uc = {};
-  p.Ia = new p(0, 16777215, 0, -1, "Faggots", "t-spec", 0, 0);
+  p.Ia = new p(0, 16777215, 0, -1, "Spectators", "t-spec", 0, 0);
   p.fa = new p(1, 15035990, -1, 8, "Red", "t-red", 0, 2);
   p.xa = new p(2, 5671397, 1, 16, "Blue", "t-blue", 0, 4);
   p.Ia.pg = p.Ia;
@@ -11149,7 +11149,7 @@
   P.N =
     "<div class='simple-dialog-view'><div class='dialog basic-dialog'><h1 data-hook='title'></h1><p data-hook='content'></p><div class='buttons' data-hook='buttons'></div></div></div>";
   Xa.N =
-    "<div class='stats-view'><p>Ping: <span data-hook='ping'></span></p><p>Max Ping: <span data-hook='max-ping'></span></p><p>Fps: <span data-hook='fps'></span></p><div data-hook='graph'></div></div>";
+    "<div class='stats-view'><p>Ping: <span data-hook='ping'></span></p><p>Max Ping: <span data-hook='max-ping'></span></p><p>Fpsdddd: <span data-hook='fps'></span></p><div data-hook='graph'></div></div>";
   Wa.N =
     '<div class=\'unsupported-browser-view\'><div class=\'dialog\'><h1>Unsupported Browser</h1><p>Sorry! Your browser doesn\'t yet implement some features which are required for HaxBall to work.</p><p>The missing features are: <span data-hook=\'features\'></span></p><h2>Recommended browsers:</h2><div><a href="https://www.mozilla.org/firefox/new/"><img src="images/firefox-icon.png"/>Firefox</a></div><div><a href="https://www.google.com/chrome/"><img src="images/chrome-icon.png"/>Chrome</a></div><div><a href="http://www.opera.com/"><img src="images/opera-icon.png"/>Opera</a></div></div></div>';
   r.sn = {}.toString;
